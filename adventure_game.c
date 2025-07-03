@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "CW2.h"
+#include "adventure_game.h"
 #define NORTH 0
 #define SOUTH 1
 #define EAST 2
